@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://x.com/BIOT93434104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bickson" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bickson-abraham-188090325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bickson abraham" height="30" width="40" /></a>
-<a href="https://instagram.com/bickson._.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bickson._.a" height="30" width="40" /></a>
-<a href="https://discord.gg/Biot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Biot" height="30" width="40" /></a>
+<a href="https://instagram.com/bickson_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bickson._.a" height="30" width="40" /></a>
+<a href="https://discord.gg/biiot_06126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Biot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
