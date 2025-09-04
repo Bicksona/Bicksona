@@ -5,7 +5,8 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning Pursuing a B.Tech in Computer Science<br><br>📫 How to reach me bickson20004@gmail.com<br><br>🪪 Want to be a Frontend web developer/ Data analyts<br><br>⚡ Fun fact I think i am hard working Guy<br>
+🌱 I’m currently learning Pursuing a B.Tech in Computer Science<br><br>📫 How to reach me bickson20004@gmail.com<br><br>📫Connect with me  [LinkedIn](https://www.linkedin.com/in/bickson-abraham/)
+<br><br>🪪Want to be a Frontend web developer/ Data analyts<br><br>⚡ Fun fact I think i am hard working Guy<br>
 
 
 ## 🌐 Socials:
